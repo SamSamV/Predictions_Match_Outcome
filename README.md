@@ -20,7 +20,7 @@ De nouvelles features ont été ajouté aux dataframe des matchs comme le classe
 De plus, des features sur les performances des équipes sur les matchs précédents le match courant ont été créé pour avoir plus d'information sur la dynanmaique et l'état de forme des équipes.
 
 ## Visualisation
-
+![alt text](radar.png)
 
 ## Modélisation
 

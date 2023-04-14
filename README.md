@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Le but de ce projet est de développer un modèle de prédiction de résultats de matchs de football en utilisant les données de matchs passés. Egalement essayé d'apprendre sur chaque équipe.
+Le but de ce projet est de développer un modèle de prédiction de résultats de matchs de football en utilisant les données de matchs passés. Egalement essayé d'apprendre sur chaque équipe et déterminier les facteurs clés contribuant au résultat d'un match.
 
 ## Données
 
